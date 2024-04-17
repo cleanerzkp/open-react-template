@@ -14,7 +14,7 @@ export default function Header() {
             <Link href="/" className="block" aria-label="Home">
               {/* Default logo (likely for desktop) */}
               <img
-                className="hidden md:block w-auto h-40"
+                className="hidden md:block w-auto h-60"
                 src="/images/SVG/Horizontal version – Main Color [CROSSFI CHAIN].svg"
                 alt="CROSSFI CHAIN Logo"
               />

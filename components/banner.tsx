@@ -10,7 +10,7 @@ export default function Banner() {
         <div className="fixed bottom-0 right-0 w-full md:bottom-8 md:right-12 md:w-auto z-50">
           <div className="bg-blue-700 text-white text-sm p-3 md:rounded-lg shadow-lg flex justify-between items-center">
             <div>
-            <strong className="hidden sm:inline text-lg">Community validator</strong>
+            <strong className="hidden sm:inline text-lg">Degen House</strong>
             <span className="hidden sm:inline text-lg"> Secure network and gain <span className="text-2xl">💰</span> with us</span>                     <a
                 className="ml-2 font-bold text-lg hover:text-blue-300 underline transition-colors duration-300"
                 href="https://test.xfiscan.com/validators/mxvaloper16dp3vfc3t5yxd4ha0qkmmzfv9kj0e46m2axnjy"
