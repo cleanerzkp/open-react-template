@@ -14,14 +14,14 @@ export default function Header() {
             <Link href="/" className="block" aria-label="Home">
               {/* Default logo (likely for desktop) */}
               <img
-                className="hidden md:block w-auto h-8"
+                className="hidden md:block w-auto h-40"
                 src="/images/SVG/Horizontal version – Main Color [CROSSFI CHAIN].svg"
                 alt="CROSSFI CHAIN Logo"
               />
               {/* Icon for mobile */}
               <img
                 className="block md:hidden w-8 h-8"
-                src="/images/SVG/Icon version – Color [CROSSFI CHAIN].svg"
+                src="/images/SVG/Icon version –  Color [CROSSFI CHAIN].svg"
                 alt="CROSSFI CHAIN Logo"
               />
             </Link>
