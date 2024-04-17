@@ -46,7 +46,7 @@ export default function Header() {
                 </Link>
               </li>
               <li>
-                <Link href="/staking" className="btn text-lg text-white bg-purple-600 hover:bg-purple-700 ml-3 px-5 py-3 rounded-md transition duration-150 ease-in-out">
+                <Link href="https://test.xfiscan.com/validators/mxvaloper16dp3vfc3t5yxd4ha0qkmmzfv9kj0e46m2axnjy" target="_blank" className="btn text-lg text-white bg-purple-600 hover:bg-purple-700 ml-3 px-5 py-3 rounded-md transition duration-150 ease-in-out">
                   Stake Now
                 </Link>
               </li>

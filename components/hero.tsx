@@ -19,11 +19,11 @@ export default function Hero() {
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">Join us in enhancing network security and achieving decentralized consensus with high uptime and reliable validation.</p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
-                <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="#0">Become a Delegator</a>
+                <a className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0" href="https://test.xfiscan.com/validators/mxvaloper16dp3vfc3t5yxd4ha0qkmmzfv9kj0e46m2axnjy" target="_blank">Become a Delegator</a>
               </div>
-              <div data-aos="fade-up" data-aos-delay="600">
+              {/* <div data-aos="fade-up" data-aos-delay="600">
                 <a className="btn text-white bg-green-700 hover:bg-green-800 w-full sm:w-auto sm:ml-4" href="#0">Our Technology</a>
-              </div>
+              </div> */}
             </div>
           </div>
 
