@@ -56,3 +56,5 @@ export default function Header() {
     </header>
   );
 }
+
+//add content to each page
