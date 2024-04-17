@@ -26,7 +26,7 @@ export default function Footer() {
 
           {/* Social Media Links */}
           <div className="flex items-center mt-4 md:mt-0">
-            <a href="https://twitter.com/yourvalidator" className="text-purple-600 hover:text-white transition duration-150 ease-in-out" aria-label="Twitter">
+            <a href="https://twitter.com/degenhouse" className="text-purple-600 hover:text-white transition duration-150 ease-in-out" aria-label="Twitter">
               <svg className="w-6 h-6 fill-current" viewBox="0 0 24 24">
                 <path d="M24 4.557a9.83 9.83 0 01-2.828.775 4.932 4.932 0 002.163-2.723 9.864 9.864 0 01-3.127 1.196 4.916 4.916 0 00-8.384 4.482A13.94 13.94 0 011.675 3.149 4.916 4.916 0 003.17 9.713a4.902 4.902 0 01-2.228-.616v.06a4.917 4.917 0 003.946 4.827 4.996 4.996 0 01-2.212.085 4.92 4.92 0 004.604 3.417 9.867 9.867 0 01-6.29 2.166 10.42 10.42 0 01-1.168-.067 13.901 13.901 0 007.557 2.209c9.054 0 14.01-7.5 14.01-14 0-.21 0-.42-.015-.63A9.935 9.935 0 0024 4.557z"/>
               </svg>
